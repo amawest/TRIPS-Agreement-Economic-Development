@@ -6,5 +6,7 @@ caused a number of trade disputes. One of the most contentious types involves th
 infringement of international protection of intellectual property rights (IP). This paper
 examines whether enforcement of the Agreement on Trade-Related Aspects of Intellectual
 Property Rights (TRIPS) dispute settlement mechanism spurs a rise in intellectual property
-rights (IP) reform. Surprisingly, I find this system has a negative effect on IP as perceived by
+rights (IP) reform. 
+
+I find this system has a negative effect on IP as perceived by
 local economic actors. Results are less conclusive regarding improved adherence to IP on an institutional level. 
