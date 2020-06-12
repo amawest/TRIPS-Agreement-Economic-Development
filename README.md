@@ -8,3 +8,5 @@ examines whether enforcement of the Agreement on Trade-Related Aspects of Intell
 Property Rights (TRIPS) dispute settlement mechanism spurs a rise in intellectual property
 rights (IP) reform. I find this system has a negative effect on IP as perceived by
 local economic actors. Results are less conclusive regarding improved adherence to intellectual property on an institutional level. 
+
+![alt text](https://github.com/amawest/undergrad-thesis-R/Visualizations/world-map-geospatial.png?raw=true)
