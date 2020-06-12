@@ -9,4 +9,4 @@ Property Rights (TRIPS) dispute settlement mechanism spurs a rise in intellectua
 rights (IP) reform. 
 
 I find this system has a negative effect on IP as perceived by
-local economic actors. Results are less conclusive regarding improved adherence to IP on an institutional level. 
+local economic actors. Results are less conclusive regarding improved adherence to intellectual property on an institutional level. 
