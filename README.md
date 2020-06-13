@@ -12,6 +12,7 @@ local economic actors. Results are less conclusive regarding improved adherence 
 ## Visualizations Snapshot (created in R) 
 ![alt text](https://github.com/amawest/undergrad-thesis-R/blob/master/Visualizations/world-map-geospatial.png?raw=true)
 
+![alt text](https://github.com/amawest/undergrad-thesis-R/blob/master/Visualizations/Bahrain-vars-over-time.png?raw=true)
+
 ![alt text](https://github.com/amawest/undergrad-thesis-R/blob/master/Visualizations/Normal_Dist_Check_2.png?raw=true)
 
-![alt text](https://github.com/amawest/undergrad-thesis-R/blob/master/Visualizations/Bahrain-vars-over-time.png?raw=true)
